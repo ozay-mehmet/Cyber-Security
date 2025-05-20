@@ -54,17 +54,6 @@ This project was developed to raise awareness and share knowledge about the esse
 
 ---
 
-## 📸 Screenshots
-
-*(You can add screenshots of your website here to give visitors a visual preview.)*
-
-```md
-![Homepage Screenshot](./assets/screenshots/homepage.png)
-![Section Screenshot](./assets/screenshots/phishing-section.png)
-```
-
----
-
 ## 🚀 Getting Started (Optional)
 
 If you'd like to clone this repository and run it locally:
