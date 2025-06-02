@@ -71,15 +71,9 @@ open index.html
 **Mehmet Özay**  
 Cybersecurity Enthusiast | Student | Developer  
 [LinkedIn](https://www.linkedin.com/in/mehmet-ozay)  
-[GitHub](https://github.com/ozay-mehmet)
 
 ---
 
-## 📄 License
-
-This project is open-source and free to use for educational purposes.
-
----
 
 ## 🙌 Contributions
 
